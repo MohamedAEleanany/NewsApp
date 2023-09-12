@@ -16,3 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screen Shots
+![Screenshot_1694500278](https://github.com/MohamedAEleanany/NewsApp/assets/116359570/6cd71a80-fcaa-470a-9ec5-646328a7cef4)
+
+![Uploading Screenshot_1694500263.png…]()
+![Screenshot_1694500258](https://github.com/MohamedAEleanany/NewsApp/assets/116359570/04ee8a76-8f8d-4053-a5b2-db2dbea8efbf)
